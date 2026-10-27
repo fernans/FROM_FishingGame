@@ -1,0 +1,16 @@
+# Sistema
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Informacion no publicable
+passwords.txt
+
+# Accesos directos locales
+*.lnk
+
+# Redundantes ya cubiertos por el arbol / el Release
+arreglado/
+juego FROM.zip
+juego FROM demo.zip
+joymouse.zip
